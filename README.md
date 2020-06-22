@@ -1,6 +1,6 @@
-Basic Python Understanding with Examples:
+# Basic Python Understanding with Examples:
 
-A. Data Types
+## A. Data Types
 1. Numbers
 2. Strings
 3. List
@@ -8,3 +8,5 @@ A. Data Types
 5. Tuples
 6. Sets
 7. Boolean
+
+## B. I/O Files (File Handling)
