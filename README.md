@@ -10,3 +10,5 @@
 7. Boolean
 
 ## B. I/O Files (File Handling)
+
+## C. Comparison Operators
