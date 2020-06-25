@@ -14,3 +14,7 @@
 ## C. Comparison Operators
 
 ## D. Conditional Statement (if, elif and else)
+
+## E. Loops
+1. for
+2. while
